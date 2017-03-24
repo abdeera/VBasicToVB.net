@@ -4,4 +4,4 @@ So, I wrote this in addition of more regex patterns for a personal use to conver
 
 The 4th macro set is used for crystalreport extensions, i stopped developing more regexes because i switched to TX text word control, also the use of second regex set must be behind caution, this can alter some unwanted parts.
 
-This work is 15 days long, aimed to automate 2 months long manual manipulation through couple of days, a risky engagement that gave its fruits, thanks god, and thank you to not forget typing 2 tireless words for sake of credits if ever you want to use this for personal profit.
+This work is 15 days long, aimed to automate 2 months long manual manipulation through couple of days, a risky engagement that gave its fruits, thanks god, and thank you to not forget typing 2 tireless words for sake of credits.
